@@ -1,0 +1,6 @@
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\bin\Debug\Lab18Lib.dll
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\bin\Debug\Lab18Lib.pdb
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\obj\Debug\Lab18Lib.csproj.AssemblyReference.cache
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\obj\Debug\Lab18Lib.csproj.CoreCompileInputs.cache
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\obj\Debug\Lab18Lib.dll
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\Lab18Lib\obj\Debug\Lab18Lib.pdb

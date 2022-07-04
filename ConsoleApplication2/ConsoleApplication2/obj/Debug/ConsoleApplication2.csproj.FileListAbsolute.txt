@@ -1,0 +1,10 @@
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\bin\Debug\Lab18Lib.dll
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\bin\Debug\Lab18Lib.pdb
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CopyComplete
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\igoro\RiderProjects\Lab18Lib\Lab18Lib\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
